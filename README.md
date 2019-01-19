@@ -98,33 +98,57 @@ Visit 5 websites. For each one, document or comment on the following:
 ---
 ## Site 4
 * What is the URL?
+- https://lift.co/
 
 * How did you get there? Did you follow a link from another site, from social media, from a search engine, etc?
+- I was doing research for another project. I followed a search-engine.
 
 * How does it look? Does the design seem current, trendy, dated, timeless, etc? What makes it appear that way?
+- The page is very colourful and busy.
+- It seems current but it can enventually become dated with the type of style it is. 
+- It appears this way because with this era of design minimalism and simplicity is more in demand with eye-catching imagery rather than multiple colours on one page. 
 
 * Describe the navigation system? Is it familiar or uncommon? Is it easy use and simple to find things?
+- The navigation system is a list of categories in which some have a drop down menu. 
+- It is fairly familiar besides the fact that it is on the left side rather than the right side. 
+- It is easy to use but finding things can be difficult on the homepage since it is very busy looking.
 
 * What parts of the site are interactive?
+- On the homepage there is a questionaire that is interactive. 
 
 * How do you feel about the site? Is it useful? Is it interesting? Is it beautiful?
+- The site feels kind of busy to me. It is useful with the search bar. 
 
 * What is one thing you would change about this site?
+- I would change the busieness of the website. I feel like it might need to be better organized if they wanted to keep all the information that they have on the site.
 
 ---
 ## Site 5
 * What is the URL?
+- https://www.spotify.com/ca-en/
 
 * How did you get there? Did you follow a link from another site, from social media, from a search engine, etc?
+- I use spotify to listen to music and I am a premium member. 
 
 * How does it look? Does the design seem current, trendy, dated, timeless, etc? What makes it appear that way?
+- The site is following a specific theme that is clean and interesting.
+- The site is current and trendy.
+- It appears this way by being very minimalistic but also having a black on white with green theme giving it som interest.
 
 * Describe the navigation system? Is it familiar or uncommon? Is it easy use and simple to find things?
+- The navigation system is a list of categories on the right hand side on the top of the screen; it also turns into a "hamburger" icon after a certain size.
+- It is familiar and easy to use.
+- Is is very easy and simple to find things.
 
 * What parts of the site are interactive?
+- Lists of different categories change colour when you hover over them.
+- Photos on different pages slide between various photos.
 
 * How do you feel about the site? Is it useful? Is it interesting? Is it beautiful?
+- I enjoy the site.
+- It is useful and interesting in the way they are simple but have their site nicely organized.
 
 * What is one thing you would change about this site?
+- I would try and make the site more interactive by maybe having the circle background banners possibly move on each page.
 
 ---
