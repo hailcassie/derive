@@ -69,18 +69,31 @@ Visit 5 websites. For each one, document or comment on the following:
 ---
 ## Site 3
 * What is the URL?
+- https://www.inkandwatertattoo.ca/
 
 * How did you get there? Did you follow a link from another site, from social media, from a search engine, etc?
+- I got to this site via social media; one of my favoiurite artists work for this company. 
 
 * How does it look? Does the design seem current, trendy, dated, timeless, etc? What makes it appear that way?
+- The site is very simple and minimalistic. 
+- The site seems very current and trendy.
+- It appears this way from the black and white colour palette and the very simple home page. 
 
 * Describe the navigation system? Is it familiar or uncommon? Is it easy use and simple to find things?
+- The navigation system is made up of titles that go down into blocks with other categories of the world. 
+- It is familiar because of the drop down bar of titles but unfamiliar because of the size being so small. 
+- It is easy to use and simple to find things.
 
 * What parts of the site are interactive?
+- On the homepage, the min photo scrolls down while you scroll down. 
+- On the about page you can also scroll through various photos as well. 
 
 * How do you feel about the site? Is it useful? Is it interesting? Is it beautiful?
+- I enjoy the site. It is very clean and easy to navigate and very simple and not filled with unnessecary junk.
+- It is very useful for the information. The photos make it interesting and beautiful as well and sinc ethey move it gives the site dimension. 
 
 * What is one thing you would change about this site?
+- The only thing i would change about the site is the blockiness of the navigation. It takes away from the airy clean feel that the rest of the site has. I would also try to make the artists page just as interesting as the home and about pages.
 
 ---
 ## Site 4
